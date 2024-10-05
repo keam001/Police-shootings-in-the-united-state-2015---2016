@@ -1,4 +1,4 @@
-Police Shootings in the United States (2015-2016)
+Police Shootings in the United States (2015-2024)
 Overview
 
 This project analyzes police shooting incidents that occurred in the United States during the years 2015 and 2016. 
